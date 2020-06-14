@@ -1,2 +1,3 @@
 # RastrosC
-Jogo Rastros - C
+Jogo Rastros programado em C
+Laboratorios de Informática II
